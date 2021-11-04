@@ -1,7 +1,7 @@
 ### Olá a todxs! Eu sou Carol Mattos
 
 
-- 🔭 Hoje eu trabalho com Suporte Técnico
+- 🔭 Hoje eu trabalho como Analista de Testes
 - 🌱 Estudando React
 - 📫 Linkedin: https://www.linkedin.com/in/carol-mattos1/
 - 😄 Pronouns: ela/dela
